@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -34,7 +35,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Java-8 with java techie/JAVA-8/src/parralel_stream"
+    "last_opened_file_path": "D:/Java-8 with java techie/JAVA-8/src/parralel_stream",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -52,7 +54,7 @@
       <recent name="Optional" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookService1">
+  <component name="RunManager" selected="Application.ExceptionHandlingExample">
     <configuration name="BookService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService" />
       <module name="JAVA-8" />
@@ -105,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculatorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExp.calculatorImpl" />
+    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_handling.ExceptionHandlingExample" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExp.*" />
+          <option name="PATTERN" value="exception_handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionHandlingExample" />
         <item itemvalue="Application.BookService1" />
         <item itemvalue="Application.BookService2" />
         <item itemvalue="Application.BookService1 (1)" />
         <item itemvalue="Application.BookService" />
-        <item itemvalue="Application.calculatorImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697009573398</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lambda Expression Example..">
+      <created>1697081819334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697081819334</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,9 +192,14 @@
     <MESSAGE value="Optional class practice all method.." />
     <MESSAGE value="map and reduce  practice all concepts.." />
     <MESSAGE value="parallelStream practice all concepts.." />
-    <option name="LAST_COMMIT_MESSAGE" value="parallelStream practice all concepts.." />
+    <MESSAGE value="Lambda Expression Example.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expression Example.." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
