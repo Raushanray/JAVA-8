@@ -54,13 +54,13 @@
       <recent name="Optional" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamDebugger">
-    <configuration name="BookService1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService1" />
+  <component name="RunManager" selected="Application.BiPredicateExample">
+    <configuration name="BiConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_With_FunctionalInrAndByFun.BiConsumerExample" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExp.*" />
+          <option name="PATTERN" value="Stream_With_FunctionalInrAndByFun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookService1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService1" />
+    <configuration name="BiFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_With_FunctionalInrAndByFun.BiFunctionExample" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExp.*" />
+          <option name="PATTERN" value="Stream_With_FunctionalInrAndByFun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookService2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService2" />
+    <configuration name="BiPredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_With_FunctionalInrAndByFun.BiPredicateExample" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExp.*" />
+          <option name="PATTERN" value="Stream_With_FunctionalInrAndByFun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BiPredicateExample" />
+        <item itemvalue="Application.BiConsumerExample" />
+        <item itemvalue="Application.BiFunctionExample" />
         <item itemvalue="Application.StreamDebugger" />
         <item itemvalue="Application.ExceptionHandlingExample" />
-        <item itemvalue="Application.BookService1" />
-        <item itemvalue="Application.BookService2" />
-        <item itemvalue="Application.BookService1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697089414999</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Debug Java 8 Stream Pipeline With IntelliJ, Java Stream Debugger..">
+      <created>1697092148083</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697092148083</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Debug Java 8 Stream Pipeline With IntelliJ, Java Stream Debugger..">
+      <created>1697092486280</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697092486280</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,7 +215,8 @@
     <MESSAGE value="parallelStream practice all concepts.." />
     <MESSAGE value="Lambda Expression Example.." />
     <MESSAGE value="Java 8 Streams Exception Handling Mechanism with lambda.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Java 8 Streams Exception Handling Mechanism with lambda.." />
+    <MESSAGE value="Debug Java 8 Stream Pipeline With IntelliJ, Java Stream Debugger.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Debug Java 8 Stream Pipeline With IntelliJ, Java Stream Debugger.." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
