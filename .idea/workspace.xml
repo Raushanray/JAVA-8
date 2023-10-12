@@ -52,13 +52,13 @@
       <recent name="Optional" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ParralelStreamExample">
-    <configuration name="MapAndReduceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapAndReduce.MapAndReduceExample" />
+  <component name="RunManager" selected="Application.BookService1">
+    <configuration name="BookService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapAndReduce.*" />
+          <option name="PATTERN" value="lambdaExp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapAndReduceWithEmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapAndReduce.MapAndReduceWithEmp" />
+    <configuration name="BookService1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService1" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapAndReduce.*" />
+          <option name="PATTERN" value="lambdaExp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapVsFlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapvsflatMap.MapVsFlatMap" />
+    <configuration name="BookService1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService1" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapvsflatMap.*" />
+          <option name="PATTERN" value="lambdaExp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OptionalClass.OptionalDemo" />
+    <configuration name="BookService2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService2" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OptionalClass.*" />
+          <option name="PATTERN" value="lambdaExp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParralelStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parralel_stream.ParralelStreamExample" />
+    <configuration name="calculatorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExp.calculatorImpl" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parralel_stream.*" />
+          <option name="PATTERN" value="lambdaExp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParralelStreamExample" />
-        <item itemvalue="Application.MapAndReduceWithEmp" />
-        <item itemvalue="Application.MapAndReduceExample" />
-        <item itemvalue="Application.OptionalDemo" />
-        <item itemvalue="Application.MapVsFlatMap" />
+        <item itemvalue="Application.BookService1" />
+        <item itemvalue="Application.BookService2" />
+        <item itemvalue="Application.BookService1 (1)" />
+        <item itemvalue="Application.BookService" />
+        <item itemvalue="Application.calculatorImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697002976243</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="parallelStream practice all concepts..">
+      <created>1697009573398</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697009573398</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,7 +182,8 @@
     <MESSAGE value="use of map and flatMap and also add the difference b/t both.." />
     <MESSAGE value="Optional class practice all method.." />
     <MESSAGE value="map and reduce  practice all concepts.." />
-    <option name="LAST_COMMIT_MESSAGE" value="map and reduce  practice all concepts.." />
+    <MESSAGE value="parallelStream practice all concepts.." />
+    <option name="LAST_COMMIT_MESSAGE" value="parallelStream practice all concepts.." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
