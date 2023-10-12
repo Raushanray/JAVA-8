@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,20 +54,7 @@
       <recent name="Optional" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionHandlingExample">
-    <configuration name="BookService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService" />
-      <module name="JAVA-8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdaExp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StreamDebugger">
     <configuration name="BookService1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaExp.BookService1" />
       <module name="JAVA-8" />
@@ -120,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamDebugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging_with_stream_debugger.StreamDebugger" />
+      <module name="JAVA-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Debugging_with_stream_debugger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamDebugger" />
         <item itemvalue="Application.ExceptionHandlingExample" />
         <item itemvalue="Application.BookService1" />
         <item itemvalue="Application.BookService2" />
         <item itemvalue="Application.BookService1 (1)" />
-        <item itemvalue="Application.BookService" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697081819334</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Java 8 Streams Exception Handling Mechanism with lambda..">
+      <created>1697089414999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697089414999</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,10 +200,22 @@
     <MESSAGE value="map and reduce  practice all concepts.." />
     <MESSAGE value="parallelStream practice all concepts.." />
     <MESSAGE value="Lambda Expression Example.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expression Example.." />
+    <MESSAGE value="Java 8 Streams Exception Handling Mechanism with lambda.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Java 8 Streams Exception Handling Mechanism with lambda.." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Debugging_with_stream_debugger/StreamDebugger.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
